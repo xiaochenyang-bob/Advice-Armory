@@ -1,0 +1,45 @@
+html, body{
+	margin: 0;
+	padding: 0;
+}
+#logo-image{
+	display:block;
+	width: 20%;
+	height: auto;
+	cursor: pointer;
+}
+#navbarNavAltMarkup a{
+	font-size: 20px;
+}
+.clearfloar{
+	clear: both;
+}
+nav{
+	border-bottom: 3px solid #B2B1B1;
+}
+
+#welcome_message{
+	font-size: 1.5em;
+	font-family: 'Solway', serif;
+}
+
+#user_icon{
+	font-size: 2.5em;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+#navbarNavAltMarkup a{
+	font-family: 'Solway', serif;
+}
+#user_icon{
+	cursor: pointer;
+}
+#footer{
+	background-color: #6C6A6A;
+	color: white;
+	margin-top: 2%;
+	position: fixed;
+	bottom: 0;
+	line-height: 20px;
+	height: 20px;
+}
